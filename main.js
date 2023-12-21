@@ -1,2 +1,2 @@
 val num = 50;
-val truth = "Hello World";
+val truth = "Hello Flatter Earth";
